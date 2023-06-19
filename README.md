@@ -1,2 +1,2 @@
 # cancer_clssfctn
-breast cancer data seti üzerine logistic regression ve svm classification uygulanması ile kanser olup olmaması tahmini.
+breast cancer dataseti üzerine logistic regression,svm ve naive bayes classification uygulanması ile kanser olup olmaması tahmini.
